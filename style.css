@@ -1,3 +1,9 @@
 * {
     color: red;
+    text-align: center;
+}
+
+p {
+    font-size: 8em;
+    color: lightgrey;
 }
